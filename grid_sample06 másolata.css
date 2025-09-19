@@ -18,18 +18,24 @@ body {
   grid-area: header;
   background: #4da6ff;
   padding: 20px;
+  text-align: center;
+  justify-content: center;
 }
 
 .site-main {
   grid-area: main;
   background: #66cc66;
   padding: 20px;
+  text-align: center;
+  justify-content: center;
 }
 
 .widget-area {
   grid-area: widget;
   background: #cc66cc;
   padding: 20px;
+  text-align: center;
+  justify-content: center;
 }
 
 .site-footer {
